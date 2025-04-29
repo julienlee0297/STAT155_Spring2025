@@ -15,5 +15,5 @@ mergeddata <- mergeddata %>%
 
 
 # Save to new CSV
-write.csv(mergeddata, "~/Documents/stat155/Project 1/data/mergeddata.csv", row.names = FALSE)
+write.csv(mergeddata, "~/Documents/stat155/Project 1/data/processdata/mergeddata.csv", row.names = FALSE)
 
