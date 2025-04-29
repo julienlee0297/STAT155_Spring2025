@@ -1,0 +1,639 @@
+"Year","COUNTYFIPS","COUNTYNAME","weighted_agi_stub","designatedArea","count"
+2012,1,"Alameda County",4.55106239969273,NA,NA
+2012,3,"Alpine County",4.04444444444444,NA,NA
+2012,5,"Amador County",4.26557583385777,NA,NA
+2012,7,"Butte County",3.99379582628314,NA,NA
+2012,9,"Calaveras County",4.20786516853933,NA,NA
+2012,11,"Colusa County",3.9893730074389,NA,NA
+2012,13,"Contra Costa County",4.70443736980702,NA,NA
+2012,15,"Del Norte County",3.94557097118463,NA,NA
+2012,17,"El Dorado County",4.50760998810939,NA,NA
+2012,19,"Fresno County",3.89706665247019,NA,NA
+2012,21,"Glenn County",3.87986171132239,NA,NA
+2012,23,"Humboldt County",3.91537479482035,NA,NA
+2012,25,"Imperial County",3.6692704885476,NA,NA
+2012,27,"Inyo County",4.17421602787456,NA,NA
+2012,29,"Kern County",4.0326016685651,NA,NA
+2012,31,"Kings County",3.95,NA,NA
+2012,33,"Lake County",3.82412263009278,"Lake (County)",1
+2012,35,"Lassen County",4.25202429149798,NA,NA
+2012,37,"Los Angeles County",4.07771111804911,NA,NA
+2012,39,"Madera County",3.85623566766626,NA,NA
+2012,41,"Marin County",4.90039688597161,NA,NA
+2012,43,"Mariposa County",4.02473958333333,NA,NA
+2012,45,"Mendocino County",3.88600899233007,NA,NA
+2012,47,"Merced County",3.80715331520602,NA,NA
+2012,49,"Modoc County",3.83667621776504,NA,NA
+2012,51,"Mono County",4.03858520900322,NA,NA
+2012,53,"Monterey County",4.05266188556771,NA,NA
+2012,55,"Napa County",4.43852274433268,NA,NA
+2012,57,"Nevada County",4.23160308526162,NA,NA
+2012,59,"Orange County",4.38065331016532,NA,NA
+2012,61,"Placer County",4.63446879466413,NA,NA
+2012,63,"Plumas County",4.11649365628604,NA,NA
+2012,65,"Riverside County",4.07527059497829,NA,NA
+2012,67,"Sacramento County",4.2093496576315,NA,NA
+2012,69,"San Benito County",4.27041019514138,NA,NA
+2012,71,"San Bernardino County",3.98891817419432,NA,NA
+2012,73,"San Diego County",4.31795393593078,"San Diego (County)",1
+2012,75,"San Francisco County",4.67015498741555,NA,NA
+2012,77,"San Joaquin County",4.05933903494879,NA,NA
+2012,79,"San Luis Obispo County",4.29746734628863,NA,NA
+2012,81,"San Mateo County",4.82430858412114,NA,NA
+2012,83,"Santa Barbara County",4.2168289792343,NA,NA
+2012,85,"Santa Clara County",4.81821873622166,NA,NA
+2012,87,"Santa Cruz County",4.30743056105088,NA,NA
+2012,89,"Shasta County",4.01449275362319,"Shasta (County)",1
+2012,91,"Sierra County",4.07936507936508,NA,NA
+2012,93,"Siskiyou County",3.82900432900433,NA,NA
+2012,95,"Solano County",4.37559883357634,NA,NA
+2012,97,"Sonoma County",4.3283588399425,NA,NA
+2012,99,"Stanislaus County",3.9952597558056,NA,NA
+2012,101,"Sutter County",4.02664204695331,NA,NA
+2012,103,"Tehama County",3.87318690426855,"Tehama (County)",1
+2012,105,"Trinity County",3.77685950413223,NA,NA
+2012,107,"Tulare County",3.79736359874682,NA,NA
+2012,109,"Tuolumne County",4.1042735042735,NA,NA
+2012,111,"Ventura County",4.35675403225806,NA,NA
+2012,113,"Yolo County",4.3552599758162,NA,NA
+2012,115,"Yuba County",3.91936671575847,NA,NA
+2013,1,"Alameda County",4.61209453383973,NA,NA
+2013,3,"Alpine County",4.04444444444444,NA,NA
+2013,5,"Amador County",4.28066914498141,NA,NA
+2013,7,"Butte County",4.03602192638998,NA,NA
+2013,9,"Calaveras County",4.25573102394294,NA,NA
+2013,11,"Colusa County",4.04255319148936,NA,NA
+2013,13,"Contra Costa County",4.7545468587095,NA,NA
+2013,15,"Del Norte County",3.94462193823216,NA,NA
+2013,17,"El Dorado County",4.56345655757005,NA,NA
+2013,19,"Fresno County",3.93101103614206,NA,NA
+2013,21,"Glenn County",3.9076790336497,NA,NA
+2013,23,"Humboldt County",3.94221740700614,NA,NA
+2013,25,"Imperial County",3.67315626611656,NA,NA
+2013,27,"Inyo County",4.20897284533648,NA,NA
+2013,29,"Kern County",4.04873700749335,NA,NA
+2013,31,"Kings County",3.96284360189573,NA,NA
+2013,33,"Lake County",3.85104669887279,NA,NA
+2013,35,"Lassen County",4.26413155190134,NA,NA
+2013,37,"Los Angeles County",4.10360201572764,"Los Angeles (County)",1
+2013,39,"Madera County",3.88146214099217,NA,NA
+2013,41,"Marin County",4.97641688855078,NA,NA
+2013,43,"Mariposa County",4.04798962386511,"Mariposa (County)",1
+2013,45,"Mendocino County",3.92621664050235,NA,NA
+2013,47,"Merced County",3.83859036268365,NA,NA
+2013,49,"Modoc County",3.85269121813031,NA,NA
+2013,51,"Mono County",4.11128526645768,NA,NA
+2013,53,"Monterey County",4.10281199646551,NA,NA
+2013,55,"Napa County",4.49304322084073,NA,NA
+2013,57,"Nevada County",4.26287487073423,NA,NA
+2013,59,"Orange County",4.4156823062944,NA,NA
+2013,61,"Placer County",4.68831321064354,NA,NA
+2013,63,"Plumas County",4.15133876600698,NA,NA
+2013,65,"Riverside County",4.10482794263319,"Riverside (County)",3
+2013,67,"Sacramento County",4.24704309849085,NA,NA
+2013,69,"San Benito County",4.32054263565891,NA,NA
+2013,71,"San Bernardino County",4.00498516181249,NA,NA
+2013,73,"San Diego County",4.35353817133596,NA,NA
+2013,75,"San Francisco County",4.76456252583937,NA,NA
+2013,77,"San Joaquin County",4.10835003801756,NA,NA
+2013,79,"San Luis Obispo County",4.34695959199686,NA,NA
+2013,81,"San Mateo County",4.89123939604119,NA,NA
+2013,83,"Santa Barbara County",4.26349464276647,NA,NA
+2013,85,"Santa Clara County",4.88900623445644,NA,NA
+2013,87,"Santa Cruz County",4.36189657865958,NA,NA
+2013,89,"Shasta County",4.0473474801061,"Shasta (County)",1
+2013,91,"Sierra County",4.0983606557377,NA,NA
+2013,93,"Siskiyou County",3.86231101511879,NA,NA
+2013,95,"Solano County",4.40732824427481,NA,NA
+2013,97,"Sonoma County",4.38910812943962,NA,NA
+2013,99,"Stanislaus County",4.03193894855851,NA,NA
+2013,101,"Sutter County",4.05801248699272,NA,NA
+2013,103,"Tehama County",3.89133986928105,NA,NA
+2013,105,"Trinity County",3.81380753138075,NA,NA
+2013,107,"Tulare County",3.81742305685968,NA,NA
+2013,109,"Tuolumne County",4.15996578272027,"Tuolumne (County)",1
+2013,111,"Ventura County",4.39815070037838,"Ventura (County)",1
+2013,113,"Yolo County",4.3960737656157,NA,NA
+2013,115,"Yuba County",3.96053116931022,NA,NA
+2014,1,"Alameda County",4.68483719954366,NA,NA
+2014,3,"Alpine County",4.04444444444444,NA,NA
+2014,5,"Amador County",4.34014869888476,NA,NA
+2014,7,"Butte County",4.08669176262179,NA,NA
+2014,9,"Calaveras County",4.31664964249234,NA,NA
+2014,11,"Colusa County",4.11157894736842,NA,NA
+2014,13,"Contra Costa Count",4.80942513877272,NA,NA
+2014,15,"Del Norte County",3.96808510638298,NA,NA
+2014,17,"El Dorado County",4.60576026119403,"El Dorado (County)",1
+2014,19,"Fresno County",3.97400468384075,NA,NA
+2014,21,"Glenn County",3.97198641765705,NA,NA
+2014,23,"Humboldt County",3.98695962843873,NA,NA
+2014,25,"Imperial County",3.70511663874211,NA,NA
+2014,27,"Inyo County",4.26303317535545,NA,NA
+2014,29,"Kern County",4.09273325358852,"Kern (County)",1
+2014,31,"Kings County",4.03100338218715,NA,NA
+2014,33,"Lake County",3.88001621402513,NA,NA
+2014,35,"Lassen County",4.33162217659138,"Lassen (County)",1
+2014,37,"Los Angeles County",4.15289688166364,"Los Angeles (County)",1
+2014,39,"Madera County",3.92277125086386,"Madera (County)",2
+2014,41,"Marin County",5.05981932741213,NA,NA
+2014,43,"Mariposa County",4.12532637075718,"Mariposa (County)",1
+2014,45,"Mendocino County",3.97325370033757,NA,NA
+2014,47,"Merced County",3.88265099310904,NA,NA
+2014,49,"Modoc County",3.93913043478261,"Modoc (County)",1
+2014,51,"Mono County",4.14307931570762,NA,NA
+2014,53,"Monterey County",4.16278232237485,NA,NA
+2014,55,"Napa County",4.57022596366859,"Napa (County)",2
+2014,57,"Nevada County",4.32706611570248,NA,NA
+2014,59,"Orange County",4.46238909517959,NA,NA
+2014,61,"Placer County",4.75286956521739,NA,NA
+2014,63,"Plumas County",4.18947368421053,NA,NA
+2014,65,"Riverside County",4.13915096837045,NA,NA
+2014,67,"Sacramento County",4.29034918889194,NA,NA
+2014,69,"San Benito County",4.35793077215671,NA,NA
+2014,71,"San Bernardino Cou",4.04624624624625,NA,NA
+2014,73,"San Diego County",4.39725186452632,"San Diego (County)",2
+2014,75,"San Francisco Coun",4.88450572364781,NA,NA
+2014,77,"San Joaquin County",4.15859105943329,NA,NA
+2014,79,"San Luis Obispo Co",4.41219135802469,NA,NA
+2014,81,"San Mateo County",4.97058282772568,NA,NA
+2014,83,"Santa Barbara Coun",4.31901809819018,NA,NA
+2014,85,"Santa Clara County",4.96987475647092,NA,NA
+2014,87,"Santa Cruz County",4.42735108511621,NA,NA
+2014,89,"Shasta County",4.08920559514384,"Shasta (County)",2
+2014,91,"Sierra County",4.12396694214876,NA,NA
+2014,93,"Siskiyou County",3.9148128052089,"Siskiyou (County)",2
+2014,95,"Solano County",4.452997890931,"Solano (County)",1
+2014,97,"Sonoma County",4.45766336307933,NA,NA
+2014,99,"Stanislaus County",4.07425354192625,NA,NA
+2014,101,"Sutter County",4.1094834232845,NA,NA
+2014,103,"Tehama County",3.94934640522876,NA,NA
+2014,105,"Trinity County",3.88461538461538,"Trinity (County)",1
+2014,107,"Tulare County",3.86922235653025,NA,NA
+2014,109,"Tuolumne County",4.20187393526405,"Tuolumne (County)",1
+2014,111,"Ventura County",4.44815978456014,NA,NA
+2014,113,"Yolo County",4.43649228627769,NA,NA
+2014,115,"Yuba County",4.00585651537335,NA,NA
+2015,1,"Alameda County",4.77474031622576,NA,NA
+2015,3,"Alpine County",4.23255813953488,NA,NA
+2015,5,"Amador County",4.38297872340426,"Amador (County)",1
+2015,7,"Butte County",4.11405119343342,NA,NA
+2015,9,"Calaveras County",4.37280481685901,"Calaveras (County)",2
+2015,11,"Colusa County",4.16615384615385,NA,NA
+2015,13,"Contra Costa County",4.87024865305216,NA,NA
+2015,15,"Del Norte County",4.0251572327044,NA,NA
+2015,17,"El Dorado County",4.66647610336154,NA,NA
+2015,19,"Fresno County",4.02303557716918,NA,NA
+2015,21,"Glenn County",4.02238805970149,NA,NA
+2015,23,"Humboldt County",4.02803574557561,NA,NA
+2015,25,"Imperial County",3.75278168563755,NA,NA
+2015,27,"Inyo County",4.30796670630202,NA,NA
+2015,29,"Kern County",4.10055667416795,NA,NA
+2015,31,"Kings County",4.05497963717142,NA,NA
+2015,33,"Lake County",3.93710191082803,"Lake (County)",3
+2015,35,"Lassen County",4.34409687184662,NA,NA
+2015,37,"Los Angeles County",4.20882892504328,NA,NA
+2015,39,"Madera County",3.96516393442623,NA,NA
+2015,41,"Marin County",5.13735103333836,NA,NA
+2015,43,"Mariposa County",4.17063492063492,NA,NA
+2015,45,"Mendocino County",4.01922091235264,NA,NA
+2015,47,"Merced County",3.93123520126283,NA,NA
+2015,49,"Modoc County",4,NA,NA
+2015,51,"Mono County",4.21316614420063,NA,NA
+2015,53,"Monterey County",4.2248772338379,NA,NA
+2015,55,"Napa County",4.62737697779068,"Napa (County)",2
+2015,57,"Nevada County",4.38416003265973,NA,NA
+2015,59,"Orange County",4.51680400764757,NA,NA
+2015,61,"Placer County",4.81549168269775,"Placer (County)",1
+2015,63,"Plumas County",4.18337129840547,NA,NA
+2015,65,"Riverside County",4.19516686556109,NA,NA
+2015,67,"Sacramento County",4.34535084584227,NA,NA
+2015,69,"San Benito County",4.44961240310078,NA,NA
+2015,71,"San Bernardino Count",4.09291701828411,"San Bernardino (County)",1
+2015,73,"San Diego County",4.4523335559437,NA,NA
+2015,75,"San Francisco County",4.99699361142428,NA,NA
+2015,77,"San Joaquin County",4.22461996034369,NA,NA
+2015,79,"San Luis Obispo Coun",4.47782950469358,NA,NA
+2015,81,"San Mateo County",5.05591442302723,NA,NA
+2015,83,"Santa Barbara County",4.36696886085928,NA,NA
+2015,85,"Santa Clara County",5.05922151049226,NA,NA
+2015,87,"Santa Cruz County",4.49335055855308,NA,NA
+2015,89,"Shasta County",4.12483762016108,NA,NA
+2015,91,"Sierra County",4.13008130081301,NA,NA
+2015,93,"Siskiyou County",3.92898781134075,NA,NA
+2015,95,"Solano County",4.50993377483444,"Solano (County)",1
+2015,97,"Sonoma County",4.52914290336933,"Sonoma (County)",1
+2015,99,"Stanislaus County",4.1239799121155,NA,NA
+2015,101,"Sutter County",4.15577889447236,NA,NA
+2015,103,"Tehama County",3.98489666136725,NA,NA
+2015,105,"Trinity County",3.91063829787234,NA,NA
+2015,107,"Tulare County",3.90902421129861,NA,NA
+2015,109,"Tuolumne County",4.24444444444444,NA,NA
+2015,111,"Ventura County",4.49938289889415,NA,NA
+2015,113,"Yolo County",4.48305949008499,"Yolo (County)",1
+2015,115,"Yuba County",4.04430379746835,NA,NA
+2016,1,"Alameda County",4.85581116580377,NA,NA
+2016,3,"Alpine County",4.16666666666667,NA,NA
+2016,5,"Amador County",4.43223880597015,NA,NA
+2016,7,"Butte County",4.15940794377596,NA,NA
+2016,9,"Calaveras County",4.39655172413793,NA,NA
+2016,11,"Colusa County",4.16224489795918,NA,NA
+2016,13,"Contra Costa County",4.92237367327042,NA,NA
+2016,15,"Del Norte County",4.04213771839671,NA,NA
+2016,17,"El Dorado County",4.73600089415446,NA,NA
+2016,19,"Fresno County",4.07111077212519,"Fresno (County)",1
+2016,21,"Glenn County",4.03565505804312,NA,NA
+2016,23,"Humboldt County",4.07466103187181,NA,NA
+2016,25,"Imperial County",3.7884345943192,NA,NA
+2016,27,"Inyo County",4.34128878281623,NA,NA
+2016,29,"Kern County",4.11127980709119,"Kern (County)",2
+2016,31,"Kings County",4.09672646569262,NA,NA
+2016,33,"Lake County",3.96859049862583,"Lake (County)",1
+2016,35,"Lassen County",4.3894523326572,NA,NA
+2016,37,"Los Angeles County",4.26164386219445,"Los Angeles (County)",4
+2016,39,"Madera County",4.03155381204162,NA,NA
+2016,41,"Marin County",5.19800699832649,NA,NA
+2016,43,"Mariposa County",4.22513089005236,NA,NA
+2016,45,"Mendocino County",4.0687979539642,NA,NA
+2016,47,"Merced County",3.9766695829688,NA,NA
+2016,49,"Modoc County",3.98280802292264,NA,NA
+2016,51,"Mono County",4.27613104524181,NA,NA
+2016,53,"Monterey County",4.29668314057166,"Monterey (County)",1
+2016,55,"Napa County",4.6871764531874,NA,NA
+2016,57,"Nevada County",4.43050778879223,NA,NA
+2016,59,"Orange County",4.56618749625127,NA,NA
+2016,61,"Placer County",4.86696817605207,NA,NA
+2016,63,"Plumas County",4.226393629124,NA,NA
+2016,65,"Riverside County",4.24353982300885,NA,NA
+2016,67,"Sacramento County",4.39199988269623,NA,NA
+2016,69,"San Benito County",4.51427551748751,NA,NA
+2016,71,"San Bernardino Count",4.13459634446163,"San Bernardino (County)",2
+2016,73,"San Diego County",4.5044468206353,"San Diego (County)",1
+2016,75,"San Francisco County",5.07131776445432,NA,NA
+2016,77,"San Joaquin County",4.27560377114813,NA,NA
+2016,79,"San Luis Obispo Coun",4.53273945485001,"San Luis Obispo (County)",1
+2016,81,"San Mateo County",5.12759022118743,NA,NA
+2016,83,"Santa Barbara County",4.4189048304622,NA,NA
+2016,85,"Santa Clara County",5.12741384392022,NA,NA
+2016,87,"Santa Cruz County",4.56054463397843,NA,NA
+2016,89,"Shasta County",4.18242101157197,NA,NA
+2016,91,"Sierra County",4.13821138211382,NA,NA
+2016,93,"Siskiyou County",3.95663531870428,NA,NA
+2016,95,"Solano County",4.56991525423729,NA,NA
+2016,97,"Sonoma County",4.58530561844001,NA,NA
+2016,99,"Stanislaus County",4.17636379737868,NA,NA
+2016,101,"Sutter County",4.17943598702271,NA,NA
+2016,103,"Tehama County",4.02703777335984,NA,NA
+2016,105,"Trinity County",3.94989106753813,NA,NA
+2016,107,"Tulare County",3.96148032025083,"Tulare (County)",1
+2016,109,"Tuolumne County",4.30553261767135,NA,NA
+2016,111,"Ventura County",4.54526357412945,NA,NA
+2016,113,"Yolo County",4.53266726537943,NA,NA
+2016,115,"Yuba County",4.08144329896907,NA,NA
+2017,1,"Alameda County",4.94380598700223,"Alameda (County)",3
+2017,3,"Alpine County",4.24444444444444,"Alpine (County)",1
+2017,5,"Amador County",4.50440917107584,"Amador (County)",2
+2017,7,"Butte County",4.22733105218135,"Butte (County)",4
+2017,9,"Calaveras County",4.49632533072023,"Calaveras (County)",3
+2017,11,"Colusa County",4.21414141414141,"Colusa (County)",1
+2017,13,"Contra Costa County",4.9913754054103,"Contra Costa (County)",3
+2017,15,"Del Norte County",4.10584677419355,"Del Norte (County)",1
+2017,17,"El Dorado County",4.80833606826387,"El Dorado (County)",3
+2017,19,"Fresno County",4.11509123541729,NA,NA
+2017,21,"Glenn County",4.08842443729904,"Glenn (County)",1
+2017,23,"Humboldt County",4.1343466107617,"Humboldt (County)",2
+2017,25,"Imperial County",3.8354967548677,NA,NA
+2017,27,"Inyo County",4.38569753810082,"Inyo (County)",2
+2017,29,"Kern County",4.15379657839231,"Kern (County)",1
+2017,31,"Kings County",4.12233850595453,"Kings (County)",1
+2017,33,"Lake County",4.03953488372093,"Lake (County)",2
+2017,35,"Lassen County",4.44545454545455,"Lassen (County)",2
+2017,37,"Los Angeles County",4.32226941540976,"Los Angeles (County)",2
+2017,39,"Madera County",4.08700016730801,"Madera (County)",2
+2017,41,"Marin County",5.28420972874678,"Marin (County)",2
+2017,43,"Mariposa County",4.2608125819135,"Mariposa (County)",3
+2017,45,"Mendocino County",4.1401705115346,"Mendocino (County)",2
+2017,47,"Merced County",4.03203791469194,"Merced (County)",2
+2017,49,"Modoc County",4.04733727810651,"Modoc (County)",2
+2017,51,"Mono County",4.36923076923077,"Mono (County)",3
+2017,53,"Monterey County",4.37560777957861,"Monterey (County)",2
+2017,55,"Napa County",4.78258986574275,"Napa (County)",3
+2017,57,"Nevada County",4.50298566878981,"Nevada (County)",2
+2017,59,"Orange County",4.61987320566304,"Orange (County)",2
+2017,61,"Placer County",4.94224272000858,"Placer (County)",1
+2017,63,"Plumas County",4.33370535714286,"Plumas (County)",2
+2017,65,"Riverside County",4.300753734141,"Riverside (County)",2
+2017,67,"Sacramento County",4.45536520679521,"Sacramento (County)",3
+2017,69,"San Benito County",4.62020062262193,"San Benito (County)",2
+2017,71,"San Bernardino Count",4.18412905328336,NA,NA
+2017,73,"San Diego County",4.56919624565849,"San Diego (County)",1
+2017,75,"San Francisco County",5.17175129533679,NA,NA
+2017,77,"San Joaquin County",4.34116541353383,"San Joaquin (County)",1
+2017,79,"San Luis Obispo Coun",4.61831252364737,"San Luis Obispo (County)",3
+2017,81,"San Mateo County",5.21454191432671,"San Mateo (County)",2
+2017,83,"Santa Barbara County",4.47651769824006,"Santa Barbara (County)",2
+2017,85,"Santa Clara County",5.21610913123526,"Santa Clara (County)",2
+2017,87,"Santa Cruz County",4.64419418657739,"Santa Cruz (County)",3
+2017,89,"Shasta County",4.25064432989691,"Shasta (County)",2
+2017,91,"Sierra County",4.28225806451613,"Sierra (County)",2
+2017,93,"Siskiyou County",4.02754677754678,"Siskiyou (County)",2
+2017,95,"Solano County",4.63806234921236,"Solano (County)",2
+2017,97,"Sonoma County",4.67517541737237,"Sonoma (County)",2
+2017,99,"Stanislaus County",4.22935859551538,"Stanislaus (County)",1
+2017,101,"Sutter County",4.23129417499391,"Sutter (County)",3
+2017,103,"Tehama County",4.09330236159504,"Tehama (County)",1
+2017,105,"Trinity County",3.98474945533769,"Trinity (County)",4
+2017,107,"Tulare County",4.0010989614814,"Tulare (County)",1
+2017,109,"Tuolumne County",4.38307440719542,"Tuolumne (County)",3
+2017,111,"Ventura County",4.60571035093328,NA,NA
+2017,113,"Yolo County",4.59929273952923,"Yolo (County)",3
+2017,115,"Yuba County",4.14961679440187,"Yuba (County)",3
+2018,1,"Alameda County",5.0559893068169,NA,NA
+2018,3,"Alpine County",4.28260869565217,NA,NA
+2018,5,"Amador County",4.58632676709154,NA,NA
+2018,7,"Butte County",4.32497435312892,"Butte (County)",3
+2018,9,"Calaveras County",4.5697503671072,NA,NA
+2018,11,"Colusa County",4.27911646586345,NA,NA
+2018,13,"Contra Costa County",5.07078226387888,NA,NA
+2018,15,"Del Norte County",4.16416416416416,NA,NA
+2018,17,"El Dorado County",4.88728574528097,NA,NA
+2018,19,"Fresno County",4.1866313863198,NA,NA
+2018,21,"Glenn County",4.1797124600639,NA,NA
+2018,23,"Humboldt County",4.19954608938547,NA,NA
+2018,25,"Imperial County",3.90229312063809,NA,NA
+2018,27,"Inyo County",4.4603550295858,NA,NA
+2018,29,"Kern County",4.22553241010124,NA,NA
+2018,31,"Kings County",4.19474914583708,NA,NA
+2018,33,"Lake County",4.12942090944423,"Lake (County)",5
+2018,35,"Lassen County",4.53752535496957,NA,NA
+2018,37,"Los Angeles County",4.40813175501801,"Los Angeles (County)",5
+2018,39,"Madera County",4.16918429003021,NA,NA
+2018,41,"Marin County",5.37506627281678,NA,NA
+2018,43,"Mariposa County",4.3218085106383,NA,NA
+2018,45,"Mendocino County",4.21567635903919,"Mendocino (County)",3
+2018,47,"Merced County",4.10529258292956,NA,NA
+2018,49,"Modoc County",4.05899705014749,NA,NA
+2018,51,"Mono County",4.4595015576324,NA,NA
+2018,53,"Monterey County",4.46136282916434,NA,NA
+2018,55,"Napa County",4.84797198716078,"Napa (County)",4
+2018,57,"Nevada County",4.57844311377246,"Nevada (County)",2
+2018,59,"Orange County",4.69475737561122,"Orange (County)",2
+2018,61,"Placer County",5.02528357892505,NA,NA
+2018,63,"Plumas County",4.42022471910112,NA,NA
+2018,65,"Riverside County",4.36726762703445,"Riverside (County)",4
+2018,67,"Sacramento County",4.53143260409315,NA,NA
+2018,69,"San Benito County",4.72550358484124,NA,NA
+2018,71,"San Bernardino Count",4.25488173152357,NA,NA
+2018,73,"San Diego County",4.64658780254359,"San Diego (County)",4
+2018,75,"San Francisco County",5.29568078809578,NA,NA
+2018,77,"San Joaquin County",4.42143892435316,NA,NA
+2018,79,"San Luis Obispo Coun",4.71142922063167,NA,NA
+2018,81,"San Mateo County",5.31878378032224,NA,NA
+2018,83,"Santa Barbara County",4.56017191977077,"Santa Barbara (County)",4
+2018,85,"Santa Clara County",5.32738426619845,NA,NA
+2018,87,"Santa Cruz County",4.74280892843446,NA,NA
+2018,89,"Shasta County",4.32818532818533,"Shasta (County)",4
+2018,91,"Sierra County",4.35714285714286,NA,NA
+2018,93,"Siskiyou County",4.10490605427975,"Siskiyou (County)",1
+2018,95,"Solano County",4.71891739498167,"Solano (County)",2
+2018,97,"Sonoma County",4.76978563860135,"Sonoma (County)",4
+2018,99,"Stanislaus County",4.31143436785082,NA,NA
+2018,101,"Sutter County",4.31545893719807,NA,NA
+2018,103,"Tehama County",4.16136450747413,NA,NA
+2018,105,"Trinity County",4.04279279279279,"Trinity (County)",1
+2018,107,"Tulare County",4.0635565312843,NA,NA
+2018,109,"Tuolumne County",4.46059113300493,NA,NA
+2018,111,"Ventura County",4.68710432319251,"Ventura (County)",3
+2018,113,"Yolo County",4.67581456374371,NA,NA
+2018,115,"Yuba County",4.23397331597787,"Yuba (County)",2
+2019,1,"Alameda County",5.1000817296976,NA,NA
+2019,3,"Alpine County",4.29411764705882,NA,NA
+2019,5,"Amador County",4.5759249033683,"Amador (County)",1
+2019,7,"Butte County",4.32611832611833,"Butte (County)",4
+2019,9,"Calaveras County",4.57183098591549,"Calaveras (County)",1
+2019,11,"Colusa County",4.28334956183057,"Colusa (County)",2
+2019,13,"Contra Costa County",5.09709564168942,NA,NA
+2019,15,"Del Norte County",4.13986679352997,"Del Norte (County)",1
+2019,17,"El Dorado County",4.91242578456319,"El Dorado (County)",1
+2019,19,"Fresno County",4.19242820458454,NA,NA
+2019,21,"Glenn County",4.21456538762725,"Glenn (County)",1
+2019,23,"Humboldt County",4.18862575050033,"Humboldt (County)",1
+2019,25,"Imperial County",3.87614413161858,NA,NA
+2019,27,"Inyo County",4.47152619589977,NA,NA
+2019,29,"Kern County",4.22495012192419,"Kern (County)",1
+2019,31,"Kings County",4.18711551606288,NA,NA
+2019,33,"Lake County",4.14445271779598,"Lake (County)",1
+2019,35,"Lassen County",4.44276253547777,NA,NA
+2019,37,"Los Angeles County",4.42497237844957,"Los Angeles (County)",3
+2019,39,"Madera County",4.16902079035074,NA,NA
+2019,41,"Marin County",5.39695869269178,"Marin (County)",2
+2019,43,"Mariposa County",4.33333333333333,"Mariposa (County)",2
+2019,45,"Mendocino County",4.236646884273,"Mendocino (County)",2
+2019,47,"Merced County",4.12565584704313,NA,NA
+2019,49,"Modoc County",4.03116147308782,"Modoc (County)",1
+2019,51,"Mono County",4.47935103244838,NA,NA
+2019,53,"Monterey County",4.47949417307215,"Monterey (County)",1
+2019,55,"Napa County",4.87890173410405,"Napa (County)",2
+2019,57,"Nevada County",4.60007698229407,NA,NA
+2019,59,"Orange County",4.70857234314981,NA,NA
+2019,61,"Placer County",5.0476803460172,NA,NA
+2019,63,"Plumas County",4.4054347826087,NA,NA
+2019,65,"Riverside County",4.36748578391552,"Riverside (County)",1
+2019,67,"Sacramento County",4.54934769892122,NA,NA
+2019,69,"San Benito County",4.7610533159948,NA,NA
+2019,71,"San Bernardino Count",4.26305239460943,"San Bernardino (County)",1
+2019,73,"San Diego County",4.66013298114582,NA,NA
+2019,75,"San Francisco County",5.33130397236615,NA,NA
+2019,77,"San Joaquin County",4.44099140350359,NA,NA
+2019,79,"San Luis Obispo Coun",4.72969374167776,NA,NA
+2019,81,"San Mateo County",5.36277667551341,NA,NA
+2019,83,"Santa Barbara County",4.57875969739315,"Santa Barbara (County)",1
+2019,85,"Santa Clara County",5.36274843959696,NA,NA
+2019,87,"Santa Cruz County",4.76819836214741,NA,NA
+2019,89,"Shasta County",4.33196312904833,"Shasta (County)",1
+2019,91,"Sierra County",4.39230769230769,NA,NA
+2019,93,"Siskiyou County",4.10603754439371,NA,NA
+2019,95,"Solano County",4.73009557781131,NA,NA
+2019,97,"Sonoma County",4.80337935463156,"Sonoma (County)",1
+2019,99,"Stanislaus County",4.3263025737602,NA,NA
+2019,101,"Sutter County",4.32171268132897,NA,NA
+2019,103,"Tehama County",4.18447694038245,"Tehama (County)",1
+2019,105,"Trinity County",4.04967602591793,"Trinity (County)",2
+2019,107,"Tulare County",4.07656503320956,NA,NA
+2019,109,"Tuolumne County",4.45640819606268,"Tuolumne (County)",1
+2019,111,"Ventura County",4.70273975897818,"Ventura (County)",4
+2019,113,"Yolo County",4.69246370623399,"Yolo (County)",1
+2019,115,"Yuba County",4.2674490426189,NA,NA
+2020,1,"Alameda County",5.03999902619535,"Alameda (County)",2
+2020,3,"Alpine County",4.43396226415094,"Alpine (County)",2
+2020,5,"Amador County",4.24105011933174,"Amador (County)",2
+2020,7,"Butte County",4.25118533347382,"Butte (County)",4
+2020,9,"Calaveras County",4.54886211512718,"Calaveras (County)",2
+2020,11,"Colusa County",4.29824561403509,"Colusa (County)",2
+2020,13,"Contra Costa County",5.01708667102142,"Contra Costa (County)",2
+2020,15,"Del Norte County",3.84754098360656,"Del Norte (County)",2
+2020,17,"El Dorado County",4.88878667075539,"El Dorado (County)",2
+2020,19,"Fresno County",4.1211351949489,"Fresno (County)",3
+2020,21,"Glenn County",4.18649045521292,"Glenn (County)",2
+2020,23,"Humboldt County",4.15510204081633,"Humboldt (County)",2
+2020,25,"Imperial County",3.74562391237588,"Imperial (County)",2
+2020,27,"Inyo County",4.45222222222222,"Inyo (County)",2
+2020,29,"Kern County",4.09528098884051,"Kern (County)",2
+2020,31,"Kings County",3.93115674397991,"Kings (County)",2
+2020,33,"Lake County",4.05368203716449,"Lake (County)",4
+2020,35,"Lassen County",3.8203414996288,"Lassen (County)",4
+2020,37,"Los Angeles County",4.33941650111462,"Los Angeles (County)",6
+2020,39,"Madera County",3.98927427218276,"Madera (County)",3
+2020,41,"Marin County",5.25947586615339,"Marin (County)",2
+2020,43,"Mariposa County",4.25217391304348,"Mariposa (County)",2
+2020,45,"Mendocino County",4.1571066574522,"Mendocino (County)",3
+2020,47,"Merced County",4.06140210795273,"Merced (County)",2
+2020,49,"Modoc County",4.03234501347709,"Modoc (County)",2
+2020,51,"Mono County",4.4978229317852,"Mono (County)",2
+2020,53,"Monterey County",4.30632356966877,"Monterey (County)",5
+2020,55,"Napa County",4.79453025364886,"Napa (County)",5
+2020,57,"Nevada County",4.57579688658265,"Nevada (County)",4
+2020,59,"Orange County",4.64237747986643,"Orange (County)",2
+2020,61,"Placer County",5.02483158774647,"Placer (County)",2
+2020,63,"Plumas County",4.37130801687764,"Plumas (County)",4
+2020,65,"Riverside County",4.31036317908308,"Riverside (County)",5
+2020,67,"Sacramento County",4.49863465402648,"Sacramento (County)",2
+2020,69,"San Benito County",4.72200303490137,"San Benito (County)",2
+2020,71,"San Bernardino Count",4.21180714612918,"San Bernardino (County)",5
+2020,73,"San Diego County",4.60862342325538,"San Diego (County)",2
+2020,75,"San Francisco County",5.19292823008462,"San Francisco (County)",2
+2020,77,"San Joaquin County",4.38747213310859,"San Joaquin (County)",2
+2020,79,"San Luis Obispo Coun",4.64705050219267,"San Luis Obispo (County)",2
+2020,81,"San Mateo County",5.28987793524361,"San Mateo (County)",4
+2020,83,"Santa Barbara County",4.51407250449122,"Santa Barbara (County)",3
+2020,85,"Santa Clara County",5.29899157371166,"Santa Clara (County)",4
+2020,87,"Santa Cruz County",4.72183823529412,"Santa Cruz (County)",4
+2020,89,"Shasta County",4.28067286201623,"Shasta (County)",3
+2020,91,"Sierra County",4.41176470588235,"Sierra (County)",3
+2020,93,"Siskiyou County",4.0832934418382,"Siskiyou (County)",3
+2020,95,"Solano County",4.65123713597548,"Solano (County)",4
+2020,97,"Sonoma County",4.74558372481267,"Sonoma (County)",6
+2020,99,"Stanislaus County",4.27587816548022,"Stanislaus (County)",4
+2020,101,"Sutter County",4.29475071381507,"Sutter (County)",2
+2020,103,"Tehama County",4.13170731707317,"Tehama (County)",2
+2020,105,"Trinity County",3.99005964214712,"Trinity (County)",3
+2020,107,"Tulare County",4.01143837575064,"Tulare (County)",4
+2020,109,"Tuolumne County",4.27979274611399,"Tuolumne (County)",3
+2020,111,"Ventura County",4.64625787542406,"Ventura (County)",5
+2020,113,"Yolo County",4.64581231079717,"Yolo (County)",4
+2020,115,"Yuba County",4.21199324324324,"Yuba (County)",4
+2021,1,"Alameda County",5.26559567885581,NA,NA
+2021,3,"Alpine County",4.61538461538461,"Alpine (County)",1
+2021,5,"Amador County",4.66718995290424,"Amador (County)",1
+2021,7,"Butte County",4.49684233449477,NA,NA
+2021,9,"Calaveras County",4.74863387978142,NA,NA
+2021,11,"Colusa County",4.51809523809524,NA,NA
+2021,13,"Contra Costa County",5.24561777777778,NA,NA
+2021,15,"Del Norte County",4.22232387923147,"Del Norte (County)",1
+2021,17,"El Dorado County",5.1171029118049,"El Dorado (County)",3
+2021,19,"Fresno County",4.33517786561265,"Fresno (County)",1
+2021,21,"Glenn County",4.36651234567901,NA,NA
+2021,23,"Humboldt County",4.34562286828001,NA,NA
+2021,25,"Imperial County",3.96367239101717,NA,NA
+2021,27,"Inyo County",4.64924506387921,NA,NA
+2021,29,"Kern County",4.29413907026352,"Kern (County)",1
+2021,31,"Kings County",4.22614040763507,NA,NA
+2021,33,"Lake County",4.23703170028818,"Lake (County)",1
+2021,35,"Lassen County",4.36672629695885,"Lassen (County)",2
+2021,37,"Los Angeles County",4.57485840977191,"Los Angeles (County)",1
+2021,39,"Madera County",4.26856471969475,"Madera (County)",1
+2021,41,"Marin County",5.5438502263485,NA,NA
+2021,43,"Mariposa County",4.50127877237852,NA,NA
+2021,45,"Mendocino County",4.35498671818401,"Mendocino (County)",1
+2021,47,"Merced County",4.26196369636964,NA,NA
+2021,49,"Modoc County",4.19662921348315,NA,NA
+2021,51,"Mono County",4.71580547112462,NA,NA
+2021,53,"Monterey County",4.56592449177154,NA,NA
+2021,55,"Napa County",5.05525349008082,"Napa (County)",1
+2021,57,"Nevada County",4.82847275518035,"Nevada (County)",1
+2021,59,"Orange County",4.88184868395969,"Orange (County)",3
+2021,61,"Placer County",5.2444532684767,"Placer (County)",3
+2021,63,"Plumas County",4.60738255033557,"Plumas (County)",2
+2021,65,"Riverside County",4.52795426228494,"Riverside (County)",1
+2021,67,"Sacramento County",4.71407353885678,NA,NA
+2021,69,"San Benito County",4.92810860845418,NA,NA
+2021,71,"San Bernardino Count",4.40405528313825,"San Bernardino (County)",2
+2021,73,"San Diego County",4.84204542720339,"San Diego (County)",1
+2021,75,"San Francisco County",5.43160873995245,NA,NA
+2021,77,"San Joaquin County",4.60449205058464,NA,NA
+2021,79,"San Luis Obispo Coun",4.9105035549366,NA,NA
+2021,81,"San Mateo County",5.50439976534585,NA,NA
+2021,83,"Santa Barbara County",4.73326324843504,NA,NA
+2021,85,"Santa Clara County",5.51778063179253,NA,NA
+2021,87,"Santa Cruz County",4.96373136622099,NA,NA
+2021,89,"Shasta County",4.49336579427876,"Shasta (County)",2
+2021,91,"Sierra County",4.5530303030303,NA,NA
+2021,93,"Siskiyou County",4.28811050814011,"Siskiyou (County)",2
+2021,95,"Solano County",4.86447103964919,NA,NA
+2021,97,"Sonoma County",4.98500199441564,"Sonoma (County)",1
+2021,99,"Stanislaus County",4.46660212971926,NA,NA
+2021,101,"Sutter County",4.51698199224983,NA,NA
+2021,103,"Tehama County",4.33752695902229,"Tehama (County)",1
+2021,105,"Trinity County",4.08624229979466,"Trinity (County)",2
+2021,107,"Tulare County",4.20407051599485,NA,NA
+2021,109,"Tuolumne County",4.60548271752086,NA,NA
+2021,111,"Ventura County",4.87224141239685,NA,NA
+2021,113,"Yolo County",4.85570643723437,NA,NA
+2021,115,"Yuba County",4.42492104507608,"Yuba (County)",1
+2022,1,"Alameda County",5.35651108818979,NA,NA
+2022,3,"Alpine County",4.85106382978723,NA,NA
+2022,5,"Amador County",4.79227841218053,NA,NA
+2022,7,"Butte County",4.62315270935961,NA,NA
+2022,9,"Calaveras County",4.84766355140187,NA,NA
+2022,11,"Colusa County",4.54316197866149,NA,NA
+2022,13,"Contra Costa County",5.32872016022807,NA,NA
+2022,15,"Del Norte County",4.29876308277831,NA,NA
+2022,17,"El Dorado County",5.18523676880223,"El Dorado (County)",1
+2022,19,"Fresno County",4.42813995632173,NA,NA
+2022,21,"Glenn County",4.43495297805643,NA,NA
+2022,23,"Humboldt County",4.4328130302002,NA,NA
+2022,25,"Imperial County",4.09111386417389,NA,NA
+2022,27,"Inyo County",4.75675675675676,NA,NA
+2022,29,"Kern County",4.38956924551408,NA,NA
+2022,31,"Kings County",4.35726266353573,NA,NA
+2022,33,"Lake County",4.37228778073848,NA,NA
+2022,35,"Lassen County",4.49339622641509,NA,NA
+2022,37,"Los Angeles County",4.67127098321343,NA,NA
+2022,39,"Madera County",4.31721698113208,NA,NA
+2022,41,"Marin County",5.57447965206586,NA,NA
+2022,43,"Mariposa County",4.56341789052069,"Mariposa (County)",1
+2022,45,"Mendocino County",4.44572864321608,NA,NA
+2022,47,"Merced County",4.36783452933727,NA,NA
+2022,49,"Modoc County",4.34017595307918,NA,NA
+2022,51,"Mono County",4.81181959564541,NA,NA
+2022,53,"Monterey County",4.67938587717544,NA,NA
+2022,55,"Napa County",5.14066686513843,NA,NA
+2022,57,"Nevada County",4.87440851735016,NA,NA
+2022,59,"Orange County",4.95767874525377,"Orange (County)",1
+2022,61,"Placer County",5.30529239621051,"Placer (County)",1
+2022,63,"Plumas County",4.66473317865429,NA,NA
+2022,65,"Riverside County",4.62917162889404,"Riverside (County)",1
+2022,67,"Sacramento County",4.82867791612058,NA,NA
+2022,69,"San Benito County",5.03191489361702,NA,NA
+2022,71,"San Bernardino Count",4.51761498388503,NA,NA
+2022,73,"San Diego County",4.95488726393789,NA,NA
+2022,75,"San Francisco County",5.51138126083387,NA,NA
+2022,77,"San Joaquin County",4.71304843304843,NA,NA
+2022,79,"San Luis Obispo Coun",4.981185605495,NA,NA
+2022,81,"San Mateo County",5.57201116119339,NA,NA
+2022,83,"Santa Barbara County",4.81235998831207,"Santa Barbara (County)",1
+2022,85,"Santa Clara County",5.59769742526352,NA,NA
+2022,87,"Santa Cruz County",5.03007103393844,NA,NA
+2022,89,"Shasta County",4.59266675009386,NA,NA
+2022,91,"Sierra County",4.75193798449612,NA,NA
+2022,93,"Siskiyou County",4.37820848611839,"Siskiyou (County)",1
+2022,95,"Solano County",4.9873771484466,NA,NA
+2022,97,"Sonoma County",5.05307341486056,NA,NA
+2022,99,"Stanislaus County",4.56388464870663,NA,NA
+2022,101,"Sutter County",4.57232998364104,NA,NA
+2022,103,"Tehama County",4.44953445065177,NA,NA
+2022,105,"Trinity County",4.21086956521739,NA,NA
+2022,107,"Tulare County",4.29701355621241,NA,NA
+2022,109,"Tuolumne County",4.6531031648171,NA,NA
+2022,111,"Ventura County",4.95429045319284,NA,NA
+2022,113,"Yolo County",4.96727886848216,NA,NA
+2022,115,"Yuba County",4.56106759501015,NA,NA

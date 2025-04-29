@@ -1,0 +1,18 @@
+---
+title: "Readmedata"
+format: html
+---
+
+Adjusted Gross Income Data Set
+
+Dimensions: 25545 observations x 77 variables
+
+Link to metadata: <https://www.irs.gov/statistics/soi-tax-stats-county-data>
+
+To navigate to each year's metadata expand block under **County, metropolitan and micropolitan data** labeled Tax years and click on year. Then scroll to the bottom of the directed page and click on County Income Data Users Guide and Record Layout to download.
+
+Disaster Data Set
+
+Dimensions: 67922 observations x 28 variables
+
+Link to metadata: <https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2>

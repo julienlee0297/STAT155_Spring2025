@@ -1,0 +1,241 @@
+"fyDeclared","fipsCountyCode","designatedArea","count"
+2012,0,"Campo Indian Reservation",1
+2012,33,"Lake (County)",1
+2012,73,"San Diego (County)",1
+2012,89,"Shasta (County)",1
+2012,103,"Tehama (County)",1
+2013,65,"Riverside (County)",3
+2013,0,"Karuk Reservation",1
+2013,37,"Los Angeles (County)",1
+2013,43,"Mariposa (County)",1
+2013,89,"Shasta (County)",1
+2013,109,"Tuolumne (County)",1
+2013,111,"Ventura (County)",1
+2014,39,"Madera (County)",2
+2014,55,"Napa (County)",2
+2014,73,"San Diego (County)",2
+2014,89,"Shasta (County)",2
+2014,93,"Siskiyou (County)",2
+2014,17,"El Dorado (County)",1
+2014,29,"Kern (County)",1
+2014,35,"Lassen (County)",1
+2014,37,"Los Angeles (County)",1
+2014,43,"Mariposa (County)",1
+2014,49,"Modoc (County)",1
+2014,95,"Solano (County)",1
+2014,105,"Trinity (County)",1
+2014,109,"Tuolumne (County)",1
+2015,33,"Lake (County)",3
+2015,9,"Calaveras (County)",2
+2015,55,"Napa (County)",2
+2015,0,"Soboba Indian Reservation",1
+2015,5,"Amador (County)",1
+2015,61,"Placer (County)",1
+2015,71,"San Bernardino (County)",1
+2015,95,"Solano (County)",1
+2015,97,"Sonoma (County)",1
+2015,113,"Yolo (County)",1
+2016,37,"Los Angeles (County)",4
+2016,29,"Kern (County)",2
+2016,71,"San Bernardino (County)",2
+2016,19,"Fresno (County)",1
+2016,33,"Lake (County)",1
+2016,53,"Monterey (County)",1
+2016,73,"San Diego (County)",1
+2016,79,"San Luis Obispo (County)",1
+2016,107,"Tulare (County)",1
+2017,7,"Butte (County)",4
+2017,105,"Trinity (County)",4
+2017,1,"Alameda (County)",3
+2017,9,"Calaveras (County)",3
+2017,13,"Contra Costa (County)",3
+2017,17,"El Dorado (County)",3
+2017,43,"Mariposa (County)",3
+2017,51,"Mono (County)",3
+2017,55,"Napa (County)",3
+2017,67,"Sacramento (County)",3
+2017,79,"San Luis Obispo (County)",3
+2017,87,"Santa Cruz (County)",3
+2017,101,"Sutter (County)",3
+2017,109,"Tuolumne (County)",3
+2017,113,"Yolo (County)",3
+2017,115,"Yuba (County)",3
+2017,5,"Amador (County)",2
+2017,23,"Humboldt (County)",2
+2017,27,"Inyo (County)",2
+2017,33,"Lake (County)",2
+2017,35,"Lassen (County)",2
+2017,37,"Los Angeles (County)",2
+2017,39,"Madera (County)",2
+2017,41,"Marin (County)",2
+2017,45,"Mendocino (County)",2
+2017,47,"Merced (County)",2
+2017,49,"Modoc (County)",2
+2017,53,"Monterey (County)",2
+2017,57,"Nevada (County)",2
+2017,59,"Orange (County)",2
+2017,63,"Plumas (County)",2
+2017,65,"Riverside (County)",2
+2017,69,"San Benito (County)",2
+2017,81,"San Mateo (County)",2
+2017,83,"Santa Barbara (County)",2
+2017,85,"Santa Clara (County)",2
+2017,89,"Shasta (County)",2
+2017,91,"Sierra (County)",2
+2017,93,"Siskiyou (County)",2
+2017,95,"Solano (County)",2
+2017,97,"Sonoma (County)",2
+2017,0,"Hoopa Valley Indian Reservation",1
+2017,0,"Resighini Rancheria (Indian Reservation)",1
+2017,0,"Tule River Indian Reservation",1
+2017,3,"Alpine (County)",1
+2017,11,"Colusa (County)",1
+2017,15,"Del Norte (County)",1
+2017,21,"Glenn (County)",1
+2017,29,"Kern (County)",1
+2017,31,"Kings (County)",1
+2017,61,"Placer (County)",1
+2017,73,"San Diego (County)",1
+2017,77,"San Joaquin (County)",1
+2017,99,"Stanislaus (County)",1
+2017,103,"Tehama (County)",1
+2017,107,"Tulare (County)",1
+2018,33,"Lake (County)",5
+2018,37,"Los Angeles (County)",5
+2018,55,"Napa (County)",4
+2018,65,"Riverside (County)",4
+2018,73,"San Diego (County)",4
+2018,83,"Santa Barbara (County)",4
+2018,89,"Shasta (County)",4
+2018,97,"Sonoma (County)",4
+2018,7,"Butte (County)",3
+2018,45,"Mendocino (County)",3
+2018,111,"Ventura (County)",3
+2018,57,"Nevada (County)",2
+2018,59,"Orange (County)",2
+2018,95,"Solano (County)",2
+2018,115,"Yuba (County)",2
+2018,0,"Hopland Rancheria (Indian Reservation)",1
+2018,93,"Siskiyou (County)",1
+2018,105,"Trinity (County)",1
+2019,7,"Butte (County)",4
+2019,111,"Ventura (County)",4
+2019,37,"Los Angeles (County)",3
+2019,11,"Colusa (County)",2
+2019,41,"Marin (County)",2
+2019,43,"Mariposa (County)",2
+2019,45,"Mendocino (County)",2
+2019,55,"Napa (County)",2
+2019,105,"Trinity (County)",2
+2019,0,"Cahuilla Indian Reservation",1
+2019,0,"La Jolla Indian Reservation",1
+2019,0,"Soboba Indian Reservation",1
+2019,5,"Amador (County)",1
+2019,9,"Calaveras (County)",1
+2019,15,"Del Norte (County)",1
+2019,17,"El Dorado (County)",1
+2019,21,"Glenn (County)",1
+2019,23,"Humboldt (County)",1
+2019,29,"Kern (County)",1
+2019,33,"Lake (County)",1
+2019,49,"Modoc (County)",1
+2019,53,"Monterey (County)",1
+2019,65,"Riverside (County)",1
+2019,71,"San Bernardino (County)",1
+2019,83,"Santa Barbara (County)",1
+2019,89,"Shasta (County)",1
+2019,97,"Sonoma (County)",1
+2019,103,"Tehama (County)",1
+2019,109,"Tuolumne (County)",1
+2019,113,"Yolo (County)",1
+2020,37,"Los Angeles (County)",6
+2020,97,"Sonoma (County)",6
+2020,53,"Monterey (County)",5
+2020,55,"Napa (County)",5
+2020,65,"Riverside (County)",5
+2020,71,"San Bernardino (County)",5
+2020,111,"Ventura (County)",5
+2020,7,"Butte (County)",4
+2020,33,"Lake (County)",4
+2020,35,"Lassen (County)",4
+2020,57,"Nevada (County)",4
+2020,63,"Plumas (County)",4
+2020,81,"San Mateo (County)",4
+2020,85,"Santa Clara (County)",4
+2020,87,"Santa Cruz (County)",4
+2020,95,"Solano (County)",4
+2020,99,"Stanislaus (County)",4
+2020,107,"Tulare (County)",4
+2020,113,"Yolo (County)",4
+2020,115,"Yuba (County)",4
+2020,19,"Fresno (County)",3
+2020,39,"Madera (County)",3
+2020,45,"Mendocino (County)",3
+2020,83,"Santa Barbara (County)",3
+2020,89,"Shasta (County)",3
+2020,91,"Sierra (County)",3
+2020,93,"Siskiyou (County)",3
+2020,105,"Trinity (County)",3
+2020,109,"Tuolumne (County)",3
+2020,1,"Alameda (County)",2
+2020,3,"Alpine (County)",2
+2020,5,"Amador (County)",2
+2020,9,"Calaveras (County)",2
+2020,11,"Colusa (County)",2
+2020,13,"Contra Costa (County)",2
+2020,15,"Del Norte (County)",2
+2020,17,"El Dorado (County)",2
+2020,21,"Glenn (County)",2
+2020,23,"Humboldt (County)",2
+2020,25,"Imperial (County)",2
+2020,27,"Inyo (County)",2
+2020,29,"Kern (County)",2
+2020,31,"Kings (County)",2
+2020,41,"Marin (County)",2
+2020,43,"Mariposa (County)",2
+2020,47,"Merced (County)",2
+2020,49,"Modoc (County)",2
+2020,51,"Mono (County)",2
+2020,59,"Orange (County)",2
+2020,61,"Placer (County)",2
+2020,67,"Sacramento (County)",2
+2020,69,"San Benito (County)",2
+2020,73,"San Diego (County)",2
+2020,75,"San Francisco (County)",2
+2020,77,"San Joaquin (County)",2
+2020,79,"San Luis Obispo (County)",2
+2020,101,"Sutter (County)",2
+2020,103,"Tehama (County)",2
+2020,0,"Morongo Indian Reservation",1
+2021,17,"El Dorado (County)",3
+2021,59,"Orange (County)",3
+2021,61,"Placer (County)",3
+2021,35,"Lassen (County)",2
+2021,63,"Plumas (County)",2
+2021,71,"San Bernardino (County)",2
+2021,89,"Shasta (County)",2
+2021,93,"Siskiyou (County)",2
+2021,105,"Trinity (County)",2
+2021,3,"Alpine (County)",1
+2021,5,"Amador (County)",1
+2021,15,"Del Norte (County)",1
+2021,19,"Fresno (County)",1
+2021,29,"Kern (County)",1
+2021,33,"Lake (County)",1
+2021,37,"Los Angeles (County)",1
+2021,39,"Madera (County)",1
+2021,45,"Mendocino (County)",1
+2021,55,"Napa (County)",1
+2021,57,"Nevada (County)",1
+2021,65,"Riverside (County)",1
+2021,73,"San Diego (County)",1
+2021,97,"Sonoma (County)",1
+2021,103,"Tehama (County)",1
+2021,115,"Yuba (County)",1
+2022,17,"El Dorado (County)",1
+2022,43,"Mariposa (County)",1
+2022,59,"Orange (County)",1
+2022,61,"Placer (County)",1
+2022,65,"Riverside (County)",1
+2022,83,"Santa Barbara (County)",1
+2022,93,"Siskiyou (County)",1
