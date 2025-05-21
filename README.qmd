@@ -41,10 +41,10 @@ Glimpse function
 
 library(tidyverse)
 
-rawdata1_AGIbyCounty <- read.csv("~/Documents/stat155/Project 1/data/rawdata/Raw_AGI_by_State/12cyallagi.csv")
+rawdata1_AGIbyCounty <- read.csv("Project1/data/rawdata/Raw_AGI_by_State/12cyallagi.csv")
 glimpse(rawdata1_AGIbyCounty)
 
-rawdata2_FEMAdisaster <- read.csv("~/Documents/stat155/Project 1/data/rawdata/DisasterDeclarationsSummaries")
+rawdata2_FEMAdisaster <- read.csv("Project1/data/rawdata/DisasterDeclarationsSummaries.csv")
 glimpse(rawdata2_FEMAdisaster)
 
 ```
