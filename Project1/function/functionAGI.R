@@ -2,13 +2,13 @@
 library(tidyverse)
 
 # Get file paths
-file_names <- list.files("~/Documents/stat155/Project 1/data/rawdata/Raw_AGI_by_State", pattern = "\\.csv$", full.names = TRUE)
+file_names <- list.files("~/Documents/stat155/Project1/data/rawdata/Raw_AGI_by_State", pattern = "\\.csv$", full.names = TRUE)
 
 # Corresponding years (adjust if needed)
 years <- 2012:2022
 
 # Folder to save stripped files
-output_dir <- "~/Documents/stat155/Project 1/data/processdata/incomeprocess"
+output_dir <- "~/Documents/stat155/Project1/data/processdata/incomeprocess"
 
 # Create the folder if it doesn't exist
 dir.create(output_dir, showWarnings = FALSE)
@@ -41,7 +41,7 @@ income_all <- income_all %>%
   select(Year, STATEFIPS, STATE, COUNTYFIPS, COUNTYNAME, agi_stub, N1)
 
 
-write.csv(income_all, "~/Documents/stat155/Project 1/data/processdata/incomeprocess/income_all.csv", row.names = FALSE)
+write.csv(income_all, "~/Documents/stat155/Project1/data/processdata/incomeprocess/income_all.csv", row.names = FALSE)
 
 
 
@@ -60,7 +60,7 @@ income_summary <- income_summary %>%
   arrange(COUNTYNAME, Year)
 
 # Save to CSV
-write.csv(income_summary, "~/Documents/stat155/Project 1/data/processdata/weighted_agi.csv", row.names = FALSE)
+write.csv(income_summary, "~/Documents/stat155/Project1/data/processdata/weighted_agi.csv", row.names = FALSE)
 
 
 

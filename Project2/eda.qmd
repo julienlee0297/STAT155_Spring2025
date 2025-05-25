@@ -43,11 +43,11 @@ Weighted_agi v.s. Year, per county
 library(tidyverse)
 
 # Load the dataset
-data_path <- "~/Documents/stat155/Project 1/data/processdata/weighted_agi.csv"
+data_path <- "~/Documents/stat155/Project1/data/processdata/weighted_agi.csv"
 income_summary <- read.csv(data_path)
 
 # Create output directory for plots
-plot_dir <- "~/Documents/stat155/Project 2/plots"
+plot_dir <- "~/Documents/stat155/Project2/plots"
 dir.create(plot_dir, showWarnings = FALSE)
 
 # Get unique counties
@@ -95,7 +95,7 @@ faceted_plot <- ggplot(income_summary, aes(x = Year, y = weighted_agi_stub)) +
 
 # Save the faceted plot
 ggsave(
-  filename = "~/Documents/stat155/Project 2/agiplots/weighted_agi_facet_plot.png",
+  filename = "~/Documents/stat155/Project2/agiplots/weighted_agi_facet_plot.png",
   plot = faceted_plot,
   width = 15, height = 10
 )
@@ -108,7 +108,7 @@ Number of disaster v.s. Year, per county
 library(tidyverse)
 
 # Read the merged data
-mergeddata <- read.csv("~/Documents/stat155/Project 1/data/mergeddata.csv")
+mergeddata <- read.csv("~/Documents/stat155/Project1/data/mergeddata.csv")
 
 # Make sure count is set to 0 if NA (count of disasters)
 mergeddata <- mergeddata %>%
@@ -118,7 +118,7 @@ mergeddata <- mergeddata %>%
 county_list <- unique(mergeddata$COUNTYNAME)
 
 # Create a folder to save graphs
-output_dir <- "~/Documents/stat155/Project 2/disasterplots"
+output_dir <- "~/Documents/stat155/Project2/disasterplots"
 dir.create(output_dir, showWarnings = FALSE)
 
 # Loop over each county

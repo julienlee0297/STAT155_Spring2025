@@ -3,7 +3,7 @@
 library(tidyverse)
 
 # Read the data
-df <- read.csv("~/Documents/stat155/Project 1/data/rawdata/DisasterDeclarationsSummaries.csv")
+df <- read.csv("~/Documents/stat155/Project1/data/rawdata/DisasterDeclarationsSummaries.csv")
 
 # Clean and filter
 disasterprocess <- df %>%
@@ -11,7 +11,7 @@ disasterprocess <- df %>%
   arrange(as.Date(incidentBeginDate))
 
 # Save to new CSV
-write.csv(disasterprocess, "~/Documents/stat155/Project 1/data/processdata/disasterprocess.csv", row.names = FALSE)
+write.csv(disasterprocess, "~/Documents/stat155/Project1/data/processdata/disasterprocess.csv", row.names = FALSE)
 
 # Count how many times each fipsCountyCode shows up per year, include designatedArea
 fips_tally <- disasterprocess %>%
@@ -22,4 +22,4 @@ fips_tally <- disasterprocess %>%
   ) %>%
   arrange(fyDeclared, desc(count))
 
-write.csv(fips_tally, "~/Documents/stat155/Project 1/data/processdata/fips_tally.csv", row.names = FALSE)
+write.csv(fips_tally, "~/Documents/stat155/Project1/data/processdata/fips_tally.csv", row.names = FALSE)
