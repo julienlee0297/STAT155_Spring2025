@@ -1,0 +1,48 @@
+---
+title: "project4"
+output: pdf_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+Research Question: 
+How does the number of FEMA declared disasters in a county correlate with time (in years)?
+
+Data Generating Process: 
+We assume the number of disasters Y at time t follows a Poisson distribution: Y∼Poisson(λ), where λ = exp⁡(β0+β1t,) t =
+year (centered or scaled as needed), λ = expected number of disasters
+β0,β1 are fixed model parameters
+
+Assumptions:
+Disaster counts are conditionally independent 
+Poisson variance equals the mean: Var(Y)=E[Y] 
+Linear log-mean function of time
+
+Estimates: 
+The regression coefficient β1, indicating the effect of time
+on disaster rates 
+The mean number of disasters per year 
+The performance of MLE under repeated sampling 
+Bias: Bias(β1_hat) = E[β1_hat]−β1
+Variance: Var(β1_hat) MSE: MSE(β1_hat)=Bias\^2+Var
+
+Hypothesis:
+If β1>0, disasters increase over time MLE will provide consistent estimates of β1 across simulations
+
+Performance Criteria Assess: 
+Mean and standard deviation of β1_hat
+Confidence interval coverage (e.g., how often 95% CI contains the true β1) 
+MSE of β1_hat
+
+Simulation Plan 
+Set parameters: β0=log⁡(2),β1=.05
+Simulate disaster counts for T=30 years 
+Repeat simulation N=1000 times 
+Fit Poisson regression for each simulated dataset 
+Record β1_hat, CI bounds, predicted counts
+
+Anticipated Challenges or Limitations 
+Overdispersion: Real disaster data may violate Poisson assumptions (variance \> mean) 
+Runtime: Fitting 1000 GLMs may take too much time
+Small sample variability: With only 30 time points per simulation, estimates may vary a lot

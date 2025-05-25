@@ -1,0 +1,32 @@
+---
+title: "proj3_Lee_Julien"
+format: html
+---
+
+library(reticulate)
+use_virtualenv("~/.virtualenvs/r-reticulate", required = TRUE)
+
+```{python}
+import pandas as pd
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+
+# Load the generated dataset
+df = pd.read_csv("~/Documents/stat155/Project1/data/processdata/generateddata.csv")
+
+# Drop any rows with missing predictor or response values (just in case)
+df = df.dropna(subset=['count', 'Year', 'weighted_agi_stub'])
+
+# Fit a Poisson GLM using statsmodels
+model = smf.glm(
+    formula='count ~ Year + weighted_agi_stub',
+    data=df,
+    family=sm.families.Poisson()
+).fit()
+
+# Display the summary
+print(model.summary())
+
+
+```
+
